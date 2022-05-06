@@ -3,7 +3,7 @@ Visualize in real time the temporal and frequency spectrum of audio signal captu
 
 ![](https://github.com/claudiorogerio/VisualSound/blob/main/images/out.gif )
 
- ### * *Dependencies:*
+ ### *Dependencies:*
 - [x] sudo apt install python3
 - [x] pip install pyaudio
 - [x] pip install pygame
